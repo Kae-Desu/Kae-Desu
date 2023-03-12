@@ -14,3 +14,6 @@ Twitter: kae_desu_
 # Certification
 - Certified Ethical Hacker (CEH)
 - TBD
+
+# Experience
+Currently i have no job experience, i dont know if playing CTFs count as one and i will try to make a writeup (kinda messed up here from the beginning)
