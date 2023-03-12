@@ -8,7 +8,7 @@ languange barrier doesnt stop me tbh, i can speak english pretty fluently, a bit
 I'm a sophomore student majoring cybersecurity and having a strong interest in CTFs and actively seek opportunities to learn about different field of cybersecurity. I am currently hunting various cybersecurity certifications and opportunities to gain hands-on experience. My experience includes self-study and participation in cybersecurity communities and events. I am looking to work in blue, red, or purple team roles and am eager to buildi my skills and expertise in the field.
 
 # Get in Contact
-Discord: Lazy Kae#0001
+Discord: Lazy Kae#0001\
 Twitter: kae_desu_
 
 # Certification
