@@ -12,7 +12,8 @@ Discord: Lazy Kae#0001\
 Twitter: kae_desu_
 
 # Certification
-- Certified Ethical Hacker (CEH)
+- EC-Council - Certified Ethical Hacker (CEH)
+- The SecOps Group - Certified Appsec Practitioner (CAP)
 - TBD
 
 # Experience
