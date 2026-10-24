@@ -59,8 +59,7 @@ notes from CTFs and labs, when i have them. the polished ones might show up on T
 
 ### 🗂️ old notes
 
-**[hackthebox](https://github.com/Kae-Desu/hackthebox)** · **[ctfs](https://github.com/Kae-Desu/ctfs)**
-some complete, some just a title and a feeling.
+none actually, AI messed this part up
 
 <br clear="right">
 
