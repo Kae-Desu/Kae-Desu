@@ -67,7 +67,7 @@ none actually, AI messed this part up
 
 ### 🌙 currently
 
-- grinding HTB CPTS
+- grinding HTB CPTS and security engineer things
 - learning japanese from zero, slowly — 日本語、勉強中です
 - trying to get to japan someday
 - sleeping less than i should
