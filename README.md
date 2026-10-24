@@ -1,6 +1,6 @@
 <div align="center">
   
-<div class="tenor-gif-embed" data-postid="7863992951796299180" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/umamusume-umaviewer-agnes-tachyon-shulldreamer-gif-7863992951796299180">Umamusume Umaviewer Sticker</a>from <a href="https://tenor.com/search/umamusume-stickers">Umamusume Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="assets/tachyon_chibi_waving.gif" width="220" alt="tachyon chibi waving">
 
 # 🗝️ Kaede's Vault
 
@@ -28,7 +28,7 @@ this repo is the drawer. the writing lives under **[The Lazies](https://thelazie
 
 ---
 
-<img src="assets/chibi-gift.png" width="120" align="right" alt="chibi holding a gift box">
+<img src="assets/tachyon_chibi_dance.gif" width="220" alt="tachyon chibi dance">
 
 ### 📦 things i keep in here
 
@@ -44,7 +44,7 @@ notes from CTFs and labs, when i have them. the polished ones might show up on T
 
 ---
 
-<img src="assets/chibi-excited.png" width="120" align="right" alt="excited chibi with swirly eyes">
+<img src="assets/tachyon_chibi_dance_2.gif" width="220" alt="tachyon chibi dance 2">
 
 ### 🔖 things i found that weren't supposed to be found
 
@@ -55,7 +55,7 @@ notes from CTFs and labs, when i have them. the polished ones might show up on T
 
 ---
 
-<img src="assets/chibi-shrug.png" width="120" align="right" alt="chibi shrugging">
+<img src="assets/tachyon_chibi_dance_3.gif" width="220" alt="tachyon chibi dance 3">
 
 ### 🗂️ old notes
 
@@ -76,6 +76,8 @@ some complete, some just a title and a feeling.
 ---
 
 <div align="center">
+
+<img src="assets/tachyon_chibi_dance_4.gif" width="220" alt="tachyon chibi dance 4">
 
 if you made it this far, thanks for stopping by.
 leave a ⭐ if something here was useful, or just say hi.
