@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="assets/tachyon_chibi_dance.gif" width="220" alt="tachyon chibi dance">
+  
+<div class="tenor-gif-embed" data-postid="7863992951796299180" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/umamusume-umaviewer-agnes-tachyon-shulldreamer-gif-7863992951796299180">Umamusume Umaviewer Sticker</a>from <a href="https://tenor.com/search/umamusume-stickers">Umamusume Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 # 🗝️ Kaede's Vault
 
